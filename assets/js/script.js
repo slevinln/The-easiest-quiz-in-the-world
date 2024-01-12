@@ -3,50 +3,50 @@ let myQuestions = [
     {
         question: "How long was the Hundred Years' War?",
         answers: {
-            a: '100 years',
-            b: '150 years',
-            c: '116 years',
-            d: '99 years'
+            A: '100 years',
+            B: '150 years',
+            C: '116 years',
+            D: '99 years'
         },
         correctAnswer: 'c'
     },
     {
         question: "In which country was the Panama hat invented?",
         answers: {
-            a: 'Brazil',
-            b: 'Ecuador',
-            c: 'Panama',
-            d: 'Chile'
+            A: 'Brazil',
+            B: 'Ecuador',
+            C: 'Panama',
+            D: 'Chile'
         },
         correctAnswer: 'b'
     },
     {
         question: "In which month does Russia celebrate the October Revolution?",
         answers: {
-            a: 'January',
-            b: 'September',
-            c: 'October',
-            d: 'November'
+            A: 'January',
+            B: 'September',
+            C: 'October',
+            D: 'November'
         },
         correctAnswer: 'd'
     },
     {
-        question: "What was the real name of King George IV?",
+        question: "What was the real name of King George VI?",
         answers: {
-            a: 'Albert',
-            b: 'George',
-            c: 'John',
-            d: 'Martin'
+            A: 'Albert',
+            B: 'George',
+            C: 'John',
+            D: 'Martin'
         },
         correctAnswer: 'a'
     },
     {
         question: "The Canary Islands are named after which animal?",
         answers: {
-            a: 'Canary',
-            b: 'Kangaroo',
-            c: 'Rat',
-            d: 'Harbor seal'
+            A: 'Canary',
+            B: 'Kangaroo',
+            C: 'Rat',
+            D: 'Harbor seal'
         },
         correctAnswer: 'd'
     },
