@@ -1,22 +1,55 @@
+// This Code is from https://simplestepscode.com/javascript-quiz-tutorial/ and is included for testing //
 let myQuestions = [
     {
-        question: "What is 10/2?",
+        question: "How long was the Hundred Years' War?",
         answers: {
-            a: '3',
-            b: '5',
-            c: '115'
+            a: '100 years',
+            b: '150 years',
+            c: '116 years',
+            d: '99 years'
         },
-        correctAnswer: 'b'
+        correctAnswer: 'c'
     },
     {
-        question: "What is 30/3?",
+        question: "In which country was the Panama hat invented?",
         answers: {
-            a: '3',
-            b: '5',
-            c: '10'
+            a: 'Brazil',
+            b: 'Ecuador',
+            c: 'Panama',
+            d: 'Chile'
         },
-        correctAnswer: 'c' -
-  }
+        correctAnswer: 'b'
+    }
+    {
+        question: "In which month does Russia celebrate the October Revolution?",
+        answers: {
+            a: 'January',
+            b: 'September',
+            c: 'October',
+            d: 'November'
+        },
+        correctAnswer: 'd'
+    }
+    {
+        question: "What was the real name of King George IV?",
+        answers: {
+            a: 'Albert',
+            b: 'George',
+            c: 'John',
+            d: 'Martin'
+        },
+        correctAnswer: 'a'
+    }
+    {
+        question: "The Canary Islands are named after which animal?",
+        answers: {
+            a: 'Canary',
+            b: 'Kangaroo',
+            c: 'Rat',
+            d: 'Harbor seal'
+        },
+        correctAnswer: 'd'
+    }
 ];
 
 let quizContainer = document.getElementById('quiz');
