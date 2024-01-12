@@ -30,6 +30,8 @@ HTML has been tested through the official W3C validator with the result: No erro
 
 CSS has been tested through the official Jigsaw validator with the result: No errors or warnings to show.
 
+JavaScript has been tested through DevTools without any issues detected.
+
 Accessibility has been tested through Lighthouse with the result: 100/100
 
 The following browsers were tested and found no issues: Chrome, Edge, Firefox and Opera.

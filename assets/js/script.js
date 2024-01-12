@@ -8,7 +8,7 @@ let myQuestions = [
             C: '116 years',
             D: '99 years'
         },
-        correctAnswer: 'c'
+        correctAnswer: 'C'
     },
     {
         question: "In which country was the Panama hat invented?",
@@ -18,7 +18,7 @@ let myQuestions = [
             C: 'Panama',
             D: 'Chile'
         },
-        correctAnswer: 'b'
+        correctAnswer: 'B'
     },
     {
         question: "In which month does Russia celebrate the October Revolution?",
@@ -28,7 +28,7 @@ let myQuestions = [
             C: 'October',
             D: 'November'
         },
-        correctAnswer: 'd'
+        correctAnswer: 'D'
     },
     {
         question: "What was the real name of King George VI?",
@@ -38,7 +38,7 @@ let myQuestions = [
             C: 'John',
             D: 'Martin'
         },
-        correctAnswer: 'a'
+        correctAnswer: 'A'
     },
     {
         question: "The Canary Islands are named after which animal?",
@@ -48,7 +48,7 @@ let myQuestions = [
             C: 'Rat',
             D: 'Harbor seal'
         },
-        correctAnswer: 'd'
+        correctAnswer: 'D'
     },
 ];
 
