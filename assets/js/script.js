@@ -1,4 +1,4 @@
-// This Code is from https://simplestepscode.com/javascript-quiz-tutorial/ and is included for testing //
+// This Code is from https://simplestepscode.com/javascript-quiz-tutorial/ and was meant only for testing //
 let myQuestions = [
     {
         question: "How long was the Hundred Years' War?",
