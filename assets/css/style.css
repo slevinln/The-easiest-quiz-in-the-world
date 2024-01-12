@@ -7,3 +7,25 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+
+/* Screen Size related Styles go to the bottom to be read last by the browser */
+/* Due to few Styles, Order is based on the Elements */
+/* Media query: large Mobiles (425px and up) */
+@media screen and (min-width: 425px) {
+    .content {
+        /* To improve Readability using large Mobiles */
+        padding: 70px;
+    }
+}
+
+
+/* Media query: Tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+}
+
+
+/* Large devices (Laptops and Desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+}
