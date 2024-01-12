@@ -19,7 +19,7 @@ let myQuestions = [
             d: 'Chile'
         },
         correctAnswer: 'b'
-    }
+    },
     {
         question: "In which month does Russia celebrate the October Revolution?",
         answers: {
@@ -29,7 +29,7 @@ let myQuestions = [
             d: 'November'
         },
         correctAnswer: 'd'
-    }
+    },
     {
         question: "What was the real name of King George IV?",
         answers: {
@@ -39,7 +39,7 @@ let myQuestions = [
             d: 'Martin'
         },
         correctAnswer: 'a'
-    }
+    },
     {
         question: "The Canary Islands are named after which animal?",
         answers: {
@@ -49,7 +49,7 @@ let myQuestions = [
             d: 'Harbor seal'
         },
         correctAnswer: 'd'
-    }
+    },
 ];
 
 let quizContainer = document.getElementById('quiz');
@@ -136,3 +136,5 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton) 
     // on submit, show results
     submitButton.onclick = function () {
         showResults(questions, quizContainer, resultsContainer);
+    }
+}    
