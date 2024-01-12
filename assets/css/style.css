@@ -19,15 +19,24 @@ body {
     line-height: 150%;
 }
 
+/* Class Styles */
+.heading {
+    padding: 0.5rem;
+    text-align: center;
+}
+
+/* ID Styles */
+#quiz {
+    padding-left: 40px;
+    line-height: 180%;
+    color: blue;
+}
+
 
 /* Screen Size related Styles go to the bottom to be read last by the browser */
 /* Due to few Styles, Order is based on the Elements */
 /* Media query: large Mobiles (425px and up) */
 @media screen and (min-width: 425px) {
-    .content {
-        /* To improve Readability using large Mobiles */
-        padding: 70px;
-    }
 }
 
 
